@@ -1,2 +1,2 @@
-# Sample-of-Power-BI-Dashboard-Work
+Power BI Work (Sales Dashboard)
 Portfolio for Power BI Projects
